@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Nub developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/91f761cf0b31ba15ac04224f132e49a063ee6163ded1a0539a263d8afca8e744/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmehyper&label=Profile%20views&color=0e75b6&style=flat" alt="itzmehyper" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Something :)**
