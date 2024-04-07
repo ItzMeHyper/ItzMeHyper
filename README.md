@@ -1,6 +1,6 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ItzMeHyper/ItzMeHyper/assets/133499771/4a217ea1-99e6-4f4f-be3a-677d5d90c645)
 <h1 align="center">Hi 👋, I'm @ItzMeHyper</h1>
-<h1 align="center"> <img src="https://media.licdn.com/dms/image/D4E03AQHWxWR4bW1rSA/profile-displayphoto-shrink_800_800/0/1712323892062?e=1718236800&v=beta&t=IvDt8sOxSpja2eugpYUPRntMmjztU119fl8yzRje-nY" alt="Logo" class="logo" height="100" width="100">Vaisakh Manu</h1>
+<h1 align="center"> <img src="https://media.licdn.com/dms/image/D4E03AQHWxWR4bW1rSA/profile-displayphoto-shrink_800_800/0/1712323892062?e=1718236800&v=beta&t=IvDt8sOxSpja2eugpYUPRntMmjztU119fl8yzRje-nY" alt="Logo" class="logo" height="50" width="50"> Vaisakh Manu</h1>
 <h3 align="center">A passionate Nub developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/91f761cf0b31ba15ac04224f132e49a063ee6163ded1a0539a263d8afca8e744/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966"
 
