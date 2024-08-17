@@ -34,6 +34,11 @@
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=itzmehyper&show_icons=true&locale=en&theme=dark" alt="itzmehyper" /></p>
 
+<!--Snake-->
+<img src="https://raw.githubusercontent.com/ItzMeHyper/ItzMeHyper/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--Contribution Graph-->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzMeHyper&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
