@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=itzmehyper&show_icons=true&locale=en&theme=dark" alt="itzmehyper" /></p>
 
 <!--Snake-->
-![snake gif](https://github.com/ItzMeHyper/ItzMeHyper/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/ItzMeHyper/ItzMeHyper/output/snake.svg" alt="Snake animation" />
 
 ###
 
