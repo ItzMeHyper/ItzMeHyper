@@ -99,8 +99,8 @@
 </div>
 
 <div align="center">
-<a align="center" href="https://visitcount.itsvg.in">
-    <img align"center" src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true />
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true />
 </a>
 </div>
 <!--
