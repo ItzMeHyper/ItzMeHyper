@@ -99,9 +99,10 @@
 </div>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=6&icon=1&pretty=true" />
+    <img align"center" src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true />
 </a>
 
+<a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true" />
 <!--
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=dark&" alt="itzmehyper" /></p>
 
