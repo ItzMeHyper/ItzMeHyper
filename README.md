@@ -98,11 +98,6 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmehyper&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="itzmehyper" />
 </div>
 
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true />
-</a>
-</div>
 <!--
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=dark&" alt="itzmehyper" /></p>
 
