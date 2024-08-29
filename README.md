@@ -124,8 +124,19 @@
 
 ---
 
-
-https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6
-
-
-https://github.com/user-attachments/assets/54d21744-e637-4038-ade9-941e71cbe545
+<table>
+  <tr>
+    <td>
+      <video width="300" height="200" controls>
+        <source src="https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="300" height="200" controls>
+        <source src="https://github.com/user-attachments/assets/54d21744-e637-4038-ade9-941e71cbe545" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
