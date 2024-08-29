@@ -46,6 +46,8 @@
 
 <br/>  
 
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -86,6 +88,8 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
 </div>  
+
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
 <br/>  
 
