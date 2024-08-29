@@ -128,12 +128,12 @@
 
 ### Track 1
 <audio controls>
-  <source src="https://github.com/user-attachments/assets/raw/main/aabe5b4f-2048-43fb-b86f-7d78e741efc6" type="audio/mpeg">
+  <source src="https://github.com/user-attachments/assets/raw/main/aabe5b4f-2048-43fb-b86f-7d78e741efc6" type="">
   Your browser does not support the audio element.
 </audio>
 
 ### Track 2
 <audio controls>
-  <source src="https://github.com/user-attachments/assets/raw/main/54d21744-e637-4038-ade9-941e71cbe545" type="audio/mpeg">
+  <source src="https://github.com/user-attachments/assets/raw/main/54d21744-e637-4038-ade9-941e71cbe545" type="">
   Your browser does not support the audio element.
 </audio>
