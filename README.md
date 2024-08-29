@@ -89,8 +89,6 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
 </div>  
 
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
-
 <br/>  
 
 <div align=center>
@@ -106,6 +104,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmehyper&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="itzmehyper" />
 </div>
 
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
 <!--
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=dark&" alt="itzmehyper" /></p>
