@@ -123,7 +123,18 @@
 </div>
 
 ---
-
+<div class="container">
+        <div class="box">
+            <a href="https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6" target="_blank">
+                Music Link 1
+            </a>
+        </div>
+        <div class="box">
+            <a href="https://github.com/user-attachments/assets/54d21744-e637-4038-ade9-941e71cbe545" target="_blank">
+                Music Link 2
+            </a>
+        </div>
+    </div>
 
 https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6
 
