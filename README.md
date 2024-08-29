@@ -124,17 +124,16 @@
 
 ---
 
+## Listen to My Music
 
-https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6
+### Track 1
+<audio controls>
+  <source src="https://github.com/user-attachments/assets/raw/main/aabe5b4f-2048-43fb-b86f-7d78e741efc6" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-
-
-
-https://github.com/user-attachments/assets/37b983f1-68ba-40c1-b4a4-3c670575da2c
-
-
-
-
-https://github.com/user-attachments/assets/54d21744-e637-4038-ade9-941e71cbe545
-
-
+### Track 2
+<audio controls>
+  <source src="https://github.com/user-attachments/assets/raw/main/54d21744-e637-4038-ade9-941e71cbe545" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
