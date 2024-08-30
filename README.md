@@ -5,7 +5,7 @@
 </h1>
 <h1 align="center"> <img src="https://media.licdn.com/dms/image/v2/D4E03AQHWxWR4bW1rSA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712323892062?e=1729123200&v=beta&t=_AHPhepGPWF6RDjkoR8WDOuOMsyx34hEEDDMegp0zsM" alt="Logo" class="logo" height="40" width="40" > Vaisakh Manu</h1>
 <h3 align="center">A passionate Nub developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/91f761cf0b31ba15ac04224f132e49a063ee6163ded1a0539a263d8afca8e744/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966"
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
