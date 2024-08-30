@@ -104,16 +104,6 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmehyper&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="itzmehyper" />
 </div>
 
-
-<!--
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=dark&" alt="itzmehyper" /></p>
-
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmehyper&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzmehyper" /></p>
-
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=itzmehyper&show_icons=true&locale=en&theme=dark" alt="itzmehyper" /></p>
-
--->
-
 <!--Snake-->
 <img src="https://raw.githubusercontent.com/ItzMeHyper/ItzMeHyper/output/snake.svg" alt="Snake animation" />
 
@@ -125,11 +115,7 @@
 </div>
 
 ---
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div>
 https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6
-</div>
-
 https://github.com/user-attachments/assets/54d21744-e637-4038-ade9-941e71cbe545
