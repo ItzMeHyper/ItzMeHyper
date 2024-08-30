@@ -128,7 +128,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6" width="" />
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6" type="video/mp4">
+</video>
+
 
 
 https://github.com/user-attachments/assets/aabe5b4f-2048-43fb-b86f-7d78e741efc6
