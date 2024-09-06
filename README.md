@@ -117,7 +117,9 @@
 
 
 <!--Snake-->
+<div align="center">
 <img src="https://raw.githubusercontent.com/ItzMeHyper/ItzMeHyper/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
