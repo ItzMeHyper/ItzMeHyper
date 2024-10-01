@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Tech, Games...**
 
-- 📫 How to reach me **vaisakhmanu0005@gmail.com**
+- 📫 How to reach me **Discord - i.hyper**
 
 ## Connect with me
 <div align="center">
