@@ -100,6 +100,7 @@
     <a href="https://visitcount.itsvg.in"> <img
             src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true" />
 </div>
+<br/>
 
 <!-- STATS-->
 <table align="center">
