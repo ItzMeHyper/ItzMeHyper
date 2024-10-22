@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Something :)**
 
-- 👀 **I’m interested in video Games**
+- 👀 **I’m interested in**: Video Games, Web Development, and Open Source Contribution.
 
-- ⚡ **I'm a Computer Science Engineering Student**
+- ⚡ **I'm a Computer Science Engineering Student** passionate about creating innovative solutions.
 
 - 💬 Ask me about **Tech, Games...**
 
