@@ -146,7 +146,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-anim.herokuapp.com/?text=Hey+👋,+Thanks+for+visiting+my+profile!&font=Righteous&size=35&color=40E0D0&animation=fade" />
+    <img src="https://readme-anim.herokuapp.com/?text=Hey+👋,+Thanks+for+visiting+my+profile!&font=Righteous&size=35&color=40E0D0&animation=bounce" />
 </h1>
 
 <!--<img align="right" alt="coding" width="400"-->
