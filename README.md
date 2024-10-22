@@ -36,7 +36,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaisakh-manu) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
-[![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white)](https://dev.to/hyper_404) 
+[![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=Dev.to&logoColor=white)](https://dev.to/hyper_404) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404) 
 </div>
 
