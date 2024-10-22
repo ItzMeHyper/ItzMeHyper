@@ -49,7 +49,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
-[![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white)](https://dev.to/) 
+[![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=black)](https://dev.to/hyper_404) 
 </div>
 
 
