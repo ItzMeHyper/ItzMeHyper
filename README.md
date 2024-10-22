@@ -20,12 +20,12 @@
 
 - ⚡ **I'm a Computer Science Engineering Student**
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/ItzMeHyper?tab=repositories](https://github.com/ItzMeHyper?tab=repositories)
-
 - 💬 Ask me about **Tech, Games...**
 
 - 📫 How to reach me **Discord - i.hyper**
+
+- 👨‍💻 All of my projects are available at
+[https://github.com/ItzMeHyper?tab=repositories](https://github.com/ItzMeHyper?tab=repositories)
 
 ## Connect with me
 <div align="center">
