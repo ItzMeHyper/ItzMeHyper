@@ -29,27 +29,15 @@
 
 ## Connect with me
 <div align="center">
-    <a href="https://github.com/" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-            alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
-            alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://dev.to/" target="_blank">
-        <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white
-            alt=devto style="margin-bottom: 5px;" />
-    </a>
-
+    
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iVaisakh.Manu) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaisakh_manu) 
-[![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white)](https://dev.to/hyper_404) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaisakh-manu) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
+[![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white)](https://dev.to/hyper_404) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404) 
 </div>
 
 
