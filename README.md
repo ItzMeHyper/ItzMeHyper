@@ -137,8 +137,8 @@
 ---
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-###  Random Dev Quote
 <div align="center">
+    <h3 align="center">Random Dev Quote</h3>
     
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
