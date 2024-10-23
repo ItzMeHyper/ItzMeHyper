@@ -14,8 +14,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Something :)**
+```diff
++ 🌱 I’m currently learning **Something :)**
 
 - 👀 **I’m interested in**: Video Games, Web Development, and Open Source Contribution.
 
@@ -26,7 +26,7 @@
 - 📫 How to reach me
     - **Discord - i.hyper**
     - **Email: vaisakhmanu0005@gmail.com**
-
+```
 - 👨‍💻 All of my projects are available at
 [https://github.com/ItzMeHyper?tab=repositories](https://github.com/ItzMeHyper?tab=repositories)
 
