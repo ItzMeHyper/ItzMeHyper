@@ -23,10 +23,8 @@
 - 💬 Ask me about **Tech, Games...**
 
 - 📫 How to reach me
-- <summary>
     - **Discord - i.hyper**
-- **Email: vaisakhmanu0005@gmail.com**
-- </summary>
+    - **Email: vaisakhmanu0005@gmail.com**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/ItzMeHyper?tab=repositories](https://github.com/ItzMeHyper?tab=repositories)
