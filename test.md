@@ -5,7 +5,7 @@
 
 
 <a href="#itzmehyper-title">
-  <img src="https://raw.githubusercontent.com/ItzMeHyper/github-stats-transparent/output/generated/overview.svg" alt="itzmehyper" align="right" />
+  <img src="https://raw.githubusercontent.com/ItzMeHyper/github-stats-transparent/output/generated/overview.svg" alt="ItzMeHyper" align="right" />
 </a>
   </div>
 
