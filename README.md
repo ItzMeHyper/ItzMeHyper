@@ -118,9 +118,9 @@
                 src="https://github-readme-stats.vercel.app/api?username=itzmehyper&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
                 alt="readme stats" />
         </td>
-               <td width="50%" align="center">
+            <td width="50%" align="center">
             <img align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMehyper&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+                src="https://github-readme-stats.vercel.app/api/?username=ItzMehyper&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=15" />
     </tr>
 </table>
 
