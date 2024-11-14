@@ -45,6 +45,33 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
+
+## Who am I?
+
+ ```python
+  class WhoAmI:
+    user = 'Jaydeep Yadav'
+	current_edu = "CSIT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Chhattisgarh_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
+
+
 ## Languages and Tools
 <div align=center>
 
