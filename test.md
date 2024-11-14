@@ -5,7 +5,7 @@
 
 
    <img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=react&border_radius=10"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=react&border_radius=10"
                 alt="streak stats" />
                 
   </div>
