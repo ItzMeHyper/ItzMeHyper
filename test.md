@@ -12,6 +12,37 @@
    <img align="center"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=react&border_radius=10"
                 alt="streak stats" />
+
+        ## Who am I?
+
+ ```python
+  class WhoAmI:
+    user = 'Vaisakh Manu'
+	current_edu = "CSE"
+    currently_learning = "Javascript,Java,Python,C,C++,HTML,CSS,Node js"
+    fun_fact = "Life has no ctrl+Z"
+	hobbies = [
+				'Gaming',
+                         'Coding',
+			 	'Movies',
+				'Skating'
+        'Cricket'
+			]
+	
+	def getCity():
+		return Kerala_India()
+
+  def getLocation():
+		return Idukki()
+    return Kottayam()
+	
+	def Ambitions():
+		StillUnknown()
+    
+	
+ ```
+
+
                 
   </div>
 
