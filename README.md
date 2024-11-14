@@ -76,7 +76,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
 [![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white)](https://dev.to/hyper_404) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404) 
-[![GMail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:vaisakhmanu0005@gmail.com) 
+[![GMail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](vaisakhmanu0005@gmail.com) 
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
