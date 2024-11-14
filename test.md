@@ -78,6 +78,60 @@ console.log(whoAmI.getCity());       	  // ["Idukki 🏡", "Kottayam 🏠"]
 console.log(whoAmI.ambitions());          // Still Unknown
 }
 ```
+class WhoAmI {
+    constructor() {
+        this.user = "Vaisakh Manu";
+        this.current_edu = "CSE Student @SJCET Palai";
+        this.currently_learning = ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js"];
+        this.fun_fact = "Life has no ctrl+Z";
+        this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
+        this.interests = ["Video Games", "Web Development", "Open Source Contribution"];
+        this.passion = "Creating innovative solutions";
+        this.about_me = "I'm a Computer Science Engineering Student passionate about tech and games.";
+        this.contact = {
+            discord: "i.hyper",
+            email: "vaisakhmanu0005@gmail.com"
+        };
+        this.projects_url = "https://github.com/ItzMeHyper?tab=repositories";
+    }
+
+    getLocation() {
+        return "Kerala, India";
+    }
+
+    getCity() {
+        return ["Idukki 🏡", "Kottayam 🏠"];
+    }
+
+    ambitions() {
+        return "Still Unknown";
+    }
+
+    reachMe() {
+        return `📫 How to reach me:\n- Discord: ${this.contact.discord}\n- Email: ${this.contact.email}`;
+    }
+
+    projects() {
+        return `👨‍💻 All of my projects are available at ${this.projects_url}`;
+    }
+
+    introduction() {
+        return `🌱 I’m currently learning: ${this.currently_learning.join(", ")}\n\n👀 I’m interested in: ${this.interests.join(", ")}\n\n⚡ ${this.passion}\n\n💬 Ask me about: Tech, Games...`;
+    }
+}
+
+// Example usage
+const whoAmI = new WhoAmI();
+console.log(whoAmI.user);                      // Vaisakh Manu
+console.log(whoAmI.current_edu);               // CSE @SJCET Palai
+console.log(whoAmI.introduction());            // Display learning, interests, and passion
+console.log(whoAmI.reachMe());                 // Display contact details
+console.log(whoAmI.projects());                // Display project URL
+console.log(whoAmI.getLocation());             // Kerala, India
+console.log(whoAmI.getCity());                 // ["Idukki 🏡", "Kottayam 🏠"]
+console.log(whoAmI.ambitions());               // Still Unknown
+
+
 
 <!--- trophy (start) -->
 <div align=center>
