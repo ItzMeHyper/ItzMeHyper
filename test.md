@@ -5,7 +5,7 @@
 
 
   <img  align="center" 
-                src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=dark&hide_border=true" 
+                src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=dark&hide_border=true" 
                 alt="Stats"/>
 
 
