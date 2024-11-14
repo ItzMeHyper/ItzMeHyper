@@ -21,7 +21,7 @@ class WhoAmI {
         this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
         this.contact = {
             discord: "i.hyper",
-            email: "```vaisakhmanu0005@gmail.com```"
+            email: "vaisakhmanu0005@gmail.com"
         };
         this.projects_url = "https://github.com/ItzMeHyper?tab=repositories";
     }
