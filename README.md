@@ -124,6 +124,7 @@
     </tr>
 </table>
 <table align="center">
+        <tr border="none">
         <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -131,6 +132,7 @@
     </a>
 </div>
 <!--- trophy (start) -->
+                </tr>
 </table>
 
 <!--Snake-->
