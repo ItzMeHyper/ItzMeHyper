@@ -19,6 +19,7 @@ class WhoAmI {
         this.currently_learning = ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js"];
         this.fun_fact = "Life has no ctrl+Z";
         this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
+        this.interests = ["Video Games", "Web Development", "Open Source Contribution"];
         this.contact = {
             discord: "i.hyper",
             email: "vaisakhmanu0005@gmail.com"
@@ -42,6 +43,7 @@ const whoAmI = new WhoAmI();
 console.log(whoAmI.user);                 // Vaisakh Manu
 console.log(whoAmI.current_edu);          // CSE @SJCET Palai
 console.log(whoAmI.currently_learning);   // ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js"]
+console.log(whoAmI.interests);            // ["Video Games", "Web Development", "Open Source Contribution"]
 console.log(whoAmI.fun_fact);             // Life has no ctrl+Z
 console.log(whoAmI.hobbies);              // ["Gaming", "Coding", "Movies", "Skating", "Cricket"]
 console.log(whoAmI.getLocation());        // Kerala, India
