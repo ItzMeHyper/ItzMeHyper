@@ -39,6 +39,10 @@ class WhoAmI {
         return "Still Unknown";
     }
 
+    reachMe() {
+        return `📫 How to reach me:\n- Discord: i.hyper\n- Email: vaisakhmanu0005@gmail.com`;
+    }
+
 const whoAmI = new WhoAmI();
 console.log(whoAmI.user);                 // Vaisakh Manu
 console.log(whoAmI.current_edu);          // CSE @SJCET Palai
@@ -49,6 +53,9 @@ console.log(whoAmI.hobbies);              // ["Gaming", "Coding", "Movies", "Ska
 console.log(whoAmI.getLocation());        // Kerala, India
 console.log(whoAmI.getCity());       	  // ["Idukki 🏡", "Kottayam 🏠"]
 console.log(whoAmI.ambitions());          // Still Unknown
+console.log(whoAmI.reachMe());            // 📫 How to reach me:
+                                                             Discord: i.hyper
+                                                             Email: vaisakhmanu0005@gmail.com
 }
 ```
 
