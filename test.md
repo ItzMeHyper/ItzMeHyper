@@ -46,6 +46,37 @@ class WhoAmI:
 	
  ```
 
+class WhoAmI {
+    constructor() {
+        this.user = 'Vaisakh Manu';
+        this.current_edu = 'CSE';
+        this.currently_learning = ['Javascript', 'Java', 'Python', 'C', 'C++', 'HTML', 'CSS', 'Node js'];
+        this.fun_fact = 'Life has no ctrl+Z';
+        this.hobbies = [
+            'Gaming',
+            'Coding',
+            'Movies',
+            'Skating',
+            'Cricket'
+        ];
+    }
+
+    getCity() {
+        return 'Kerala, India';
+    }
+
+    getLocation() {
+        return ['Idukki', 'Kottayam'];
+    }
+
+    Ambitions() {
+        return 'Still Unknown';
+    }
+}
+
+const vaisakh = new WhoAmI();
+
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
