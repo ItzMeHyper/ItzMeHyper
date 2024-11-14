@@ -111,7 +111,7 @@
     <tr border="none">
         <td width="50%" align="center">
             <img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=itzmehyper&theme=react&border_radius=10"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=react&border_radius=10"
                 alt="streak stats" />
             <br></br>
             <img align="center"
