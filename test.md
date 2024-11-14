@@ -54,6 +54,19 @@ class WhoAmI {
         this.fun_fact = "Life has no ctrl+Z";
         this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
     }
+
+    getCity() {
+        return "Kerala, India";
+    }
+
+    getLocation() {
+        return ["Idukki", "Kottayam"];
+    }
+
+    ambitions() {
+        return "Still Unknown";
+    }
+
 }
 ```
 
