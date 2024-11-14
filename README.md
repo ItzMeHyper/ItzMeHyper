@@ -43,6 +43,10 @@ class WhoAmI {
         return `📫 How to reach me:\n- Discord: i.hyper\n- Email: vaisakhmanu0005@gmail.com`;
     }
 
+    projects() {
+        return `👨‍💻 All of my projects are available at ${this.projects_url}`;
+    }
+
 const whoAmI = new WhoAmI();
 console.log(whoAmI.user);                 // Vaisakh Manu
 console.log(whoAmI.current_edu);          // CSE @SJCET Palai
@@ -56,6 +60,7 @@ console.log(whoAmI.ambitions());          // Still Unknown
 console.log(whoAmI.reachMe());            // 📫 How to reach me:
                                                              Discord: i.hyper
                                                              Email: vaisakhmanu0005@gmail.com
+console.log(whoAmI.projects());           // 👨‍💻 All of my projects are available at https://github.com/ItzMeHyper?tab=repositories
 }
 ```
 
