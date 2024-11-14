@@ -78,6 +78,7 @@ console.log(whoAmI.getCity());       	  // ["Idukki 🏡", "Kottayam 🏠"]
 console.log(whoAmI.ambitions());          // Still Unknown
 }
 ```
+```javascript
 class WhoAmI {
     constructor() {
         this.user = "Vaisakh Manu";
@@ -131,7 +132,7 @@ console.log(whoAmI.getLocation());             // Kerala, India
 console.log(whoAmI.getCity());                 // ["Idukki 🏡", "Kottayam 🏠"]
 console.log(whoAmI.ambitions());               // Still Unknown
 
-
+```
 
 <!--- trophy (start) -->
 <div align=center>
