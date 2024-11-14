@@ -16,28 +16,28 @@
         ## Who am I?
 
  ```python
-  class WhoAmI:
+class WhoAmI:
     user = 'Vaisakh Manu'
-	current_edu = "CSE"
+    current_edu = "CSE"
     currently_learning = "Javascript,Java,Python,C,C++,HTML,CSS,Node js"
     fun_fact = "Life has no ctrl+Z"
 	hobbies = [
-				'Gaming',
+			 'Gaming',
                          'Coding',
-			 	'Movies',
-				'Skating'
-        'Cricket'
+	                 'Movies',
+	                 'Skating',
+                         'Cricket'
 			]
 	
-	def getCity():
+ def getCity():
 		return Kerala_India()
 
-  def getLocation():
-		return Idukki()
-    return Kottayam()
+ def getLocation():
+	return Idukki()
+        return Kottayam()
 	
-	def Ambitions():
-		StillUnknown()
+ def Ambitions():
+	StillUnknown()
     
 	
  ```
