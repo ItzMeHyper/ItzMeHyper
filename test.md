@@ -4,7 +4,7 @@
     </a>
 
 
-<img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=dark&hide_border=true" />
+<img  alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=dark&hide_border=true" />
 
 
    <img align="center"
