@@ -13,6 +13,10 @@
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=react&border_radius=10"
                 alt="streak stats" />
 
+
+                
+  </div>
+
         ## Who am I?
 
  ```python
@@ -41,10 +45,6 @@ class WhoAmI:
     
 	
  ```
-
-
-                
-  </div>
 
 <!--- trophy (start) -->
 <div align=center>
