@@ -45,7 +45,17 @@ class WhoAmI:
     
 	
  ```
-
+```javascript
+class WhoAmI {
+    constructor() {
+        this.user = "Vaisakh Manu";
+        this.current_edu = "CSE @SJCET Palai";
+        this.currently_learning = ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js"];
+        this.fun_fact = "Life has no ctrl+Z";
+        this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
+    }
+}
+```
 
 <!--- trophy (start) -->
 <div align=center>
