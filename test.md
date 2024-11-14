@@ -55,18 +55,27 @@ class WhoAmI {
         this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
     }
 
-    getCity() {
+    getLocation() {
         return "Kerala, India";
     }
 
-    getLocation() {
-        return ["Idukki", "Kottayam"];
+    getCity() {
+        return ["Idukki 🏡", "Kottayam 🏠"];
     }
 
     ambitions() {
         return "Still Unknown";
     }
 
+const whoAmI = new WhoAmI();
+console.log(whoAmI.user);                 // Vaisakh Manu
+console.log(whoAmI.current_edu);          // CSE @SJCET Palai
+console.log(whoAmI.currently_learning);   // ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js"]
+console.log(whoAmI.fun_fact);             // Life has no ctrl+Z
+console.log(whoAmI.hobbies);              // ["Gaming", "Coding", "Movies", "Skating", "Cricket"]
+console.log(whoAmI.getLocation());        // Kerala, India
+console.log(whoAmI.getCity());       	  // ["Idukki 🏡", "Kottayam 🏠"]
+console.log(whoAmI.ambitions());          // Still Unknown
 }
 ```
 
