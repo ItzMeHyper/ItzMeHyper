@@ -4,7 +4,9 @@
     </a>
 
 
-<img  alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=dark&hide_border=true" />
+  <img  align="center" 
+                src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=dark&hide_border=true" 
+                alt="Stats"/>
 
 
    <img align="center"
