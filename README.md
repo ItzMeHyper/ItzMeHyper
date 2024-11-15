@@ -9,7 +9,7 @@
 <h1 align="center"> <img
         src="https://avatars.githubusercontent.com/u/133499771?s=400&u=6461880cd501b9b2e8d3c7f70c8645cfd4fe6e22&v=4"
         alt="Logo" class="logo" height="30" width="30"> Vaisakh Manu</h1>
-<h3 align="center">A passionate Nub developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 ```javascript
 class WhoAmI {
