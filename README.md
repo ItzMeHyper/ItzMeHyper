@@ -1,14 +1,17 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ItzMeHyper/ItzMeHyper/assets/133499771/4a217ea1-99e6-4f4f-be3a-677d5d90c645)
+
 <!--<h1 align="center">Hi 👋, I'm @ItzMeHyper</h1> -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaisakh+Manu!;+ItzMeHyper!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaisakh+Manu!;+ItzMeHyper!;" />
 </h1>
 
-<h1 align="center"> <img
-        src="https://avatars.githubusercontent.com/u/133499771?s=400&u=6461880cd501b9b2e8d3c7f70c8645cfd4fe6e22&v=4"
-        alt="Logo" class="logo" height="30" width="30"> Vaisakh Manu</h1>
+<h1 align="center"> 
+    <img src="https://avatars.githubusercontent.com/u/133499771?s=400&u=6461880cd501b9b2e8d3c7f70c8645cfd4fe6e22&v=4" alt="Logo" class="logo" height="30" width="30"> Vaisakh Manu
+</h1>
+
 <h3 align="center">A passionate developer from India</h3>
 
 ```javascript
@@ -46,6 +49,7 @@ class WhoAmI {
     projects() {
         return `👨‍💻 All of my projects are available at: \n${this.projects_url}`;
     }
+}
 
 const whoAmI = new WhoAmI();
 console.log(whoAmI.user);                 // Vaisakh Manu
@@ -55,13 +59,14 @@ console.log(whoAmI.interests);            // ["Video Games", "Web Development", 
 console.log(whoAmI.fun_fact);             // Life has no ctrl+Z
 console.log(whoAmI.hobbies);              // ["Gaming", "Coding", "Movies", "Skating", "Cricket"]
 console.log(whoAmI.getLocation());        // Kerala, India
-console.log(whoAmI.getCity());       	  // ["Idukki 🏡", "Kottayam 🏠"]
+console.log(whoAmI.getCity());            // ["Idukki 🏡", "Kottayam 🏠"]
 console.log(whoAmI.ambitions());          // Still Unknown
 console.log(whoAmI.reachMe());            // 📫 How to reach me:
-                                                             Discord: i.hyper
-                                                             Email: vaisakhmanu0005@gmail.com
+                                           // - Discord: i.hyper
+                                           // - Email: vaisakhmanu0005@gmail.com
 console.log(whoAmI.projects());           // 👨‍💻 All of my projects are available at:
-                                                             https://github.com/ItzMeHyper?tab=repositories
+                                           // https://github.com/ItzMeHyper?tab=repositories
+
 }
 ```
 
