@@ -34,7 +34,7 @@ class WhoAmI {
     }
 
     getCity() {
-        return ["Idukki 🏡", "Kottayam 🏠"];
+        return ["Idukki 🏡 || 127.0.0.1/06", "Kottayam 🏠 || 127.0.0.1/05"];
     }
 
     ambitions() {
@@ -57,7 +57,7 @@ console.log(whoAmI.interests);            // ["Video Games", "Web Development", 
 console.log(whoAmI.fun_fact);             // Life has no ctrl+Z
 console.log(whoAmI.hobbies);              // ["Gaming", "Coding", "Movies", "Skating", "Cricket"]
 console.log(whoAmI.getLocation());        // Kerala, India
-console.log(whoAmI.getCity());       	  // ["Idukki 🏡", "Kottayam 🏠"]
+console.log(whoAmI.getCity());       	  // ["Idukki 🏡 || 127.0.0.1/06", "Kottayam 🏠 || 127.0.0.1/05"]
 console.log(whoAmI.ambitions());          // Still Unknown
 console.log(whoAmI.reachMe());            // 📫 How to reach me:
                                                              Discord: i.hyper
