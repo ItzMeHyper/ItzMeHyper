@@ -77,7 +77,8 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
 [![Dev.TO](https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white)](https://dev.to/hyper_404) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzrtx404)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://g.dev/Vaisakh_Manu)
 [![GMail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:vaisakhmanu0005@gmail.com) 
 </div>
 
