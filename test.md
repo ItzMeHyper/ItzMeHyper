@@ -13,6 +13,7 @@
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ItzMeHyper&theme=react&border_radius=10"
                 alt="streak stats" />
 
+ <img src="https://profile-counter.glitch.me/ItzMeHyper/count.svg?" />
 
                 
   </div>
