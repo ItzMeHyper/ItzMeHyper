@@ -18,7 +18,7 @@ class WhoAmI {
     constructor() {
         this.user = "Vaisakh Manu";
         this.current_edu = "CSE Student @SJCET Palai";
-        this.currently_learning = ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js"];
+        this.currently_learning = ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js", "Shell"];
         this.fun_fact = "Life has no ctrl+Z";
         this.hobbies = ["Gaming", "Coding", "Movies", "Skating", "Cricket"];
         this.interests = ["Video Games", "Web Development", "Open Source Contribution"];
