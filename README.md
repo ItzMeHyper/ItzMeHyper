@@ -140,6 +140,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 <br />
 
 <div align=center>
+        
     <a href="https://visitcount.itsvg.in"> <img
             src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true" />
 </div>
@@ -203,3 +204,5 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 </h1>
+
+[![](https://visitcount.itsvg.in/api?id=ItzMeHyper&icon=0&color=0)](https://visitcount.itsvg.in)
