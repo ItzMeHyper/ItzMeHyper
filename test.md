@@ -18,6 +18,8 @@
 <a href="https://github.com/ItzMeHyper/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ItzMeHyper&style=for-the-badge">
 </a>
+
+![Profile views](https://komarev.com/ghpvc/?username=ItzMeHyper&color=blue)
 		
   </div>
 
