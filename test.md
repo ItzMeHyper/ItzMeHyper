@@ -15,7 +15,7 @@
 
  <img src="https://profile-counter.glitch.me/ItzMeHyper/count.svg?" />
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/ItzMeHyper/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ItzMeHyper&style=for-the-badge">
 </a>
 		
