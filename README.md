@@ -141,7 +141,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 
 <div align=center>
     <a href="https://visitcount.itsvg.in"> <img
-            src="https://visitcount.itsvg.in/api?id=Ir&label=Profile%20Views&color=1&icon=0&pretty=true" />
+            src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true" />
 </div>
 
 <br/>
