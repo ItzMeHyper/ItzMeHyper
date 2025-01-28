@@ -51,7 +51,7 @@ class WhoAmI {
 
 const whoAmI = new WhoAmI();
 console.log(whoAmI.user);                 // Vaisakh Manu
-console.log(whoAmI.current_edu);          // CSE @SJCET Palai
+console.log(whoAmI.current_edu);          // CSE Student @SJCET Palai
 console.log(whoAmI.currently_learning);   // ["JavaScript", "Java", "Python", "C", "C++", "HTML", "CSS", "Node.js", "Shell"]
 console.log(whoAmI.interests);            // ["Video Games", "Web Development", "Open Source Contribution"]
 console.log(whoAmI.fun_fact);             // Life has no ctrl+Z
