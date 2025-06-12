@@ -140,8 +140,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 <br />
 
 <div align=center>
-    <a href="https://visitcount.itsvg.in"> <img
-            src="https://visitcount.itsvg.in/api?id=ItzMeHyper&label=Profile%20Views&color=1&icon=0&pretty=true" />
+    <img src="https://profile-counter.glitch.me/ItzMeHyper/count.svg?" />
 </div>
 
 <br/>
@@ -162,7 +161,6 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
             <img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMehyper&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=15" />
     </tr>
-        <img src="https://profile-counter.glitch.me/ItzMeHyper/count.svg?" />
 </table>
 
 <!--- trophy --->
