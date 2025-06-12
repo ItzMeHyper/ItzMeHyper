@@ -162,6 +162,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
             <img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMehyper&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=15" />
     </tr>
+        <img src="https://profile-counter.glitch.me/ItzMeHyper/count.svg?" />
 </table>
 
 <!--- trophy --->
