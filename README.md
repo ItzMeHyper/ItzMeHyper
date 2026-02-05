@@ -175,6 +175,9 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 </table>
 <!--- trophy --->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ItzMeHyper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!--Snake-->
 <div align="center">
     <img src="https://raw.githubusercontent.com/ItzMeHyper/ItzMeHyper/output/snake.svg" alt="Snake animation" />
