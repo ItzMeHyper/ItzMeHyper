@@ -140,7 +140,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 <br />
 
 <div align=center>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itzmehyper">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=itzmehyper">
 </div>
 
 <br/>
