@@ -140,7 +140,7 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 <br />
 
 <div align=center>
-    <img src="https://profile-counter.glitch.me/ItzMeHyper/count.svg?" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itzmehyper">
 </div>
 
 <br/>
