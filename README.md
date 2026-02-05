@@ -175,8 +175,11 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 </table>
 <!--- trophy --->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ItzMeHyper&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 
+
+<div align="center">
+    ![](https://github-contributor-stats.vercel.app/api?username=ItzMeHyper&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 <!--Snake-->
 <div align="center">
