@@ -167,25 +167,25 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 <table align="center">
     <tr border="none">
         <div align=center>
-          <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-              <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ItzMeHyper&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-            </a>
+                <img align="center" width=84% src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="TROPHY" />
+
         </div>
    </tr>
 </table>
 <!--- trophy --->
 
-### 🏆 Trophies
-  <img src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg&theme=radical" alt="trophy" />
+### 
 
-   <img src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg&theme=dark" alt="trophy" />
+  <img src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="trophy" />
 
-### 👻 Pac-Man Contribution Graph
+<!--PacMan-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzmehyper/itzmehyper/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzmehyper/itzmehyper/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+### 
 
 <!--Snake-->
 <div align="center">
