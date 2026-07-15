@@ -169,14 +169,11 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
         <div align=center>
                 <img align="center" width=84% src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="TROPHY" />
 
-        </div>
+</div>
    </tr>
 </table>
 <!--- trophy --->
 
-### 
-
-  <img src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="trophy" />
 
 <!--PacMan-->
 <picture>
