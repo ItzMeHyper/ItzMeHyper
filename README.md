@@ -175,16 +175,9 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 </table>
 <!--- trophy --->
 
-### 
-
-<div align="center">
-         <img align="center"
-                src="https://github-profile-trophy.vercel.app/api?username=ItzMeHyper&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="trophy" />
+  <img src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg&theme=dark&combine_all_yearly_contributions=true" alt="trophy" />
 </p>
 
 ### 👻 Pac-Man Contribution Graph
