@@ -165,15 +165,15 @@ console.log(whoAmI.projects());           // 👨‍💻 All of my projects are 
 
 <!--- trophy --->
 <table align="center">
-    <tr border="none">
-        <div align=center>
-                <img align="center" width=84% src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="TROPHY" />
-
-</div>
-   </tr>
+  <tr>
+    <td align="center">
+      <img width="84%" src="https://raw.githubusercontent.com/itzmehyper/itzmehyper/trophy-output/trophy.svg" alt="TROPHY" />
+    </td>
+  </tr>
 </table>
 <!--- trophy --->
 
+###
 
 <!--PacMan-->
 <div align="center">
